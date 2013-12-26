@@ -1,0 +1,3 @@
+[submodule "Pyevolve"]
+	path = Pyevolve
+	url = https://github.com/perone/Pyevolve
